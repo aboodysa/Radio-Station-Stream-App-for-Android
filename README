@@ -11,3 +11,5 @@ To get going:
 I've decided to stop development on this application. It worked with few problems until Android 2.2 came out, and we experienced problems only with certain manufacturer's handsets. Before long, OS fragmentation made testing too expensive and bug fixing extremely difficult. I'd had plans to borrow from NPR's Android source code ( http://code.google.com/p/npr-android-app/source/checkout ) in order to fix some of the force close problems by incorporating live stream proxying, but we ran out of time to dedicate to the project.
 
 Looking forward to someone forking and continuing development. This could be a good resource for your station and its listeners.
+
+http://stackoverflow.com/questions/6283568/online-radio-streaming-app-for-android
